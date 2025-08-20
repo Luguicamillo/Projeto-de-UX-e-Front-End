@@ -21,9 +21,6 @@ O público-alvo do projeto é formado por frequentadores de academia que desejam
 
 ### Personas
 
-- Descreva as personas que irão interagir com a aplicação ou produto. Deixe claro suas principais caracteristicas e contextos sociais, econômicos e culturais.
-- Quais informações sobre o usuário o serviço ou poduto deve guardar?
-
   - Persona primária – Frequentador de academia
 Nome fictício: Matheus, 20 anos, Analista de Marketing
 Contexto: Rotina corrida entre trabalho, estudos de graduação e vida social.
@@ -105,5 +102,6 @@ A jornada termina, de forma cíclica e contínua, quando o usuário conclui um c
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
