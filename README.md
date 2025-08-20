@@ -21,20 +21,20 @@ O público-alvo do projeto é formado por frequentadores de academia que desejam
 
 ### Personas
 
-  - Persona primária – Frequentador de academia
-Nome fictício: Matheus, 20 anos, Analista de Marketing
+- Persona primária – Frequentador de academia.
+Nome fictício: Matheus, 20 anos, Analista de Marketing.
 Contexto: Rotina corrida entre trabalho, estudos de graduação e vida social.
 Necessidades: Registrar treinos de forma prática, visualizar evolução física de maneira clara e motivadora, manter consistência nos treinos mesmo com pouco tempo disponível.
 Objetivos: Melhorar condicionamento físico, ter relatórios simples e acompanhamento visual que incentive a continuidade.
 
-  - Persona secundária – Personal trainer
-Nome fictício: Ricardo, 34 anos, Personal Trainer autônomo
+- Persona secundária – Personal trainer.
+Nome fictício: Ricardo, 34 anos, Personal Trainer autônomo.
 Contexto: Atende em diferentes academias e em treinos particulares. Gerencia em média 20 alunos com diferentes objetivos e necessidades.
 Necessidades: Centralizar registros de treinos, acompanhar resultados individuais, apresentar relatórios claros aos alunos.
 Objetivos: Otimizar tempo, oferecer atendimento profissional e personalizado, aumentar engajamento e satisfação dos alunos.
   
-  Outras personas – Gestores e profissionais de apoio
-Nome fictício: Carla, 41 anos, Gerente de Academia
+- Outras personas – Gestores e profissionais de apoio.
+Nome fictício: Carla, 41 anos, Gerente de Academia.
 Contexto: Responsável pela gestão de uma unidade com cerca de 300 alunos e 10 profissionais.
 Necessidades: Monitorar estatísticas gerais, analisar métricas de engajamento, gerenciar cadastros, integrar informações com sistemas administrativos.
 Objetivos: Melhorar a gestão da academia, aumentar retenção de alunos, oferecer suporte eficiente aos profissionais.
@@ -102,6 +102,7 @@ A jornada termina, de forma cíclica e contínua, quando o usuário conclui um c
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 
