@@ -45,14 +45,46 @@ Além dela, entram ainda recepcionistas, que realizam cadastros e suporte inicia
 
 ![Mapa de empatia](empatia.png)
 
-- Determine o mapa de empatia[^1] de pelo menos uma persona primária e uma sercundária.
-  - O que o usuário vê: aqui estamos falando do ambiente visual em que o usuário se encontra. Ou seja, o que ele efetivamente enxerga, as pessoas e objetos que estão ao seu redor. Isso ajuda a entender o contexto em que o usuário está inserido e as influências visuais que está recebendo.
-  - O que o usuário ouve: neste quadrante, buscamos entender o que o usuário está ouvindo, os sons que o cercam e como eles influenciam suas ações.
-  - O que o usuário diz e faz: aqui consideramos ações e comportamentos que o usuário apresenta durante sua interação com serviço ou poduto.
-  - O que o usuário pensa e sente: neste quadrante, buscamos entender os pensamentos, sentimentos, emoções e percepções que o usuário tem em relação ao serviço ou poduto. Quais expectativas o usuário cria sobre o serviço ou poduto?
-  Que tipo de serviço ou poduto mais agrada essa persona?
-  - Dores: quando falamos sobre dores do usuário, estamos fazendo referência a quaisquer obstáculos, necessidades ou frustrações que o usuário possa experimentar ao tentar realizar uma tarefa ou alcançar um objetivo. Isso inclui, por exemplo, problemas de usabilidade, dificuldades de acesso ou outros desafios que podem afetar a experiência do usuário.
-  - Ganhos: nesse caso estamos falando de quaisquer benefícios ou recompensas que o usuário possa experimentar ao utilizar o serviço ou poduto. Isso pode incluir economia de tempo ou facilidade de uso, por exemplo. Que desejos do usuário o serviço ou poduto satisfaz?
+
+-🎯 Persona Primária – João, 28 anos, universitário de Educação Física
+     Interessado em saúde, bem-estar e performance.
+-👉 Vê
+Seu ambiente inclui a faculdade, academia, redes sociais e grupos de treino. Observa constantemente propagandas de suplementos, aplicativos fitness e planos de treino online.
+
+-👉 Escuta
+Recebe influência de amigos da academia, professores, treinadores e também de influenciadores fitness no Instagram e YouTube.
+
+-👉 Fala e Faz
+Costuma compartilhar treinos nas redes sociais, comenta sobre evolução física com colegas, participa de desafios fitness. Demonstra disciplina, mas por vezes reclama da falta de tempo e dinheiro para investir em suplementos e treinos personalizados.
+  
+-👉 Pensa e Sente
+Está motivado a melhorar seu condicionamento físico e autoestima. Preocupa-se em manter uma rotina equilibrada entre estudos, treinos e vida social. Sonha em participar de competições esportivas e conquistar um corpo saudável.
+
+-👉 Dores
+Falta de recursos financeiros para investir em planos avançados, dificuldade em manter consistência nos treinos por causa da rotina acadêmica. Ansiedade por resultados rápidos e frustração com platôs de desempenho.
+
+-👉 Ganhos
+Deseja conquistar evolução física visível, reconhecimento social, mais disposição no dia a dia e confiança pessoal. Também valoriza soluções acessíveis, práticas e que tragam economia de tempo (como aplicativos que organizam treinos).
+
+-🎯 Persona Secundária – Maria, 42 anos, gerente administrativa
+    Preza pela saúde, equilíbrio e praticidade.
+-👉 Vê
+Está cercada por um ambiente corporativo que exige muito tempo sentada. Vê anúncios de academias, pilates e aplicativos de bem-estar. Observa colegas de trabalho adotando hábitos saudáveis, o que a estimula.
+
+-👉 Escuta
+É influenciada por familiares (que recomendam exercícios para cuidar da saúde), por médicos e profissionais de saúde, além de acompanhar grupos de mulheres nas redes sociais que falam sobre qualidade de vida.
+
+-👉 Fala e Faz
+Comenta sobre falta de tempo para exercícios, mas sempre fala sobre a importância da saúde. Participa ocasionalmente de caminhadas em grupo, baixa aplicativos de exercícios e tenta implementar pequenas pausas ativas no dia a dia.
+
+-👉Pensa e Sente
+Tem consciência de que precisa cuidar da saúde para evitar problemas futuros. Preocupa-se com estresse no trabalho, sedentarismo e envelhecimento saudável. Busca bem-estar físico e mental.
+
+-👉 Dores
+Falta de tempo por conta da rotina de trabalho, cansaço físico e mental. Desmotivação por já ter tentado academias antes sem manter a consistência. Preocupações com colesterol, pressão alta e dores na coluna.
+
+-👉 Ganhos
+Procura soluções simples e práticas para manter a saúde em dia, como programas online que se adaptem ao seu ritmo. Deseja mais energia para o trabalho, equilíbrio emocional e envelhecimento saudável.
 
 ## Contexto de uso
 
@@ -102,6 +134,7 @@ A jornada termina, de forma cíclica e contínua, quando o usuário conclui um c
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 
