@@ -21,25 +21,59 @@ O público-alvo do projeto é formado por frequentadores de academia que desejam
 
 ### Personas
 
-- Persona primária – Frequentador de academia.
-Nome fictício: Matheus, 20 anos, Analista de Marketing.
-Contexto: Rotina corrida entre trabalho, estudos de graduação e vida social.
+## Persona primária – Frequentador de academia e Personal Trainer
+
+Nome fictício (aluno): Mariana, 27 anos, Analista de Marketing
+
+Contexto: Rotina corrida entre trabalho, estudos de pós-graduação e vida social.
+
 Necessidades: Registrar treinos de forma prática, visualizar evolução física de maneira clara e motivadora, manter consistência nos treinos mesmo com pouco tempo disponível.
+
 Objetivos: Melhorar condicionamento físico, ter relatórios simples e acompanhamento visual que incentive a continuidade.
 
-- Persona secundária – Personal trainer.
-Nome fictício: Ricardo, 34 anos, Personal Trainer autônomo.
-Contexto: Atende em diferentes academias e em treinos particulares. Gerencia em média 20 alunos com diferentes objetivos e necessidades.
-Necessidades: Centralizar registros de treinos, acompanhar resultados individuais, apresentar relatórios claros aos alunos.
-Objetivos: Otimizar tempo, oferecer atendimento profissional e personalizado, aumentar engajamento e satisfação dos alunos.
-  
-- Outras personas – Gestores e profissionais de apoio.
-Nome fictício: Carla, 41 anos, Gerente de Academia.
-Contexto: Responsável pela gestão de uma unidade com cerca de 300 alunos e 10 profissionais.
-Necessidades: Monitorar estatísticas gerais, analisar métricas de engajamento, gerenciar cadastros, integrar informações com sistemas administrativos.
-Objetivos: Melhorar a gestão da academia, aumentar retenção de alunos, oferecer suporte eficiente aos profissionais.
+Nome fictício (personal trainer): Ricardo, 34 anos, Personal Trainer autônomo
 
-Além dela, entram ainda recepcionistas, que realizam cadastros e suporte inicial; nutricionistas e fisioterapeutas parceiros, que consultam relatórios de treinos para complementar planos de saúde e reabilitação; e coordenadores de redes, que buscam padronização e indicadores estratégicos.
+Contexto: Atende em diferentes academias e em treinos particulares. Gerencia em média 20 alunos com diferentes objetivos e necessidades.
+
+Necessidades: Centralizar registros de treinos, acompanhar resultados individuais, apresentar relatórios claros aos alunos.
+
+Objetivos: Otimizar tempo, oferecer atendimento profissional e personalizado, aumentar engajamento e satisfação dos alunos.
+
+## Persona secundária – Gestor da academia
+
+Nome fictício: Carla, 41 anos, Gerente de Academia
+
+Contexto: Responsável pela gestão de uma unidade com cerca de 300 alunos e 10 profissionais.
+
+Necessidades: Monitorar estatísticas gerais, analisar métricas de engajamento, gerenciar cadastros, integrar informações com sistemas administrativos.
+
+Objetivos: Melhorar a gestão da academia, aumentar retenção de alunos, oferecer suporte eficiente aos profissionais.
+  
+## Persona negativa – Usuário ocasional e desengajado
+
+Nome fictício: Bruno, 22 anos, Estudante universitário
+
+Contexto: Frequenta a academia de forma muito esporádica, sem regularidade ou compromisso com treinos. Usa a academia apenas de forma social ou eventual.
+
+Necessidades: Não busca acompanhamento de evolução, nem registros detalhados de treinos, pois sua prioridade não é desempenho físico ou disciplina.
+
+Comportamento: Pouco interessado em métricas de desempenho ou relatórios. Prefere improvisar os exercícios no momento, sem seguir planos ou rotinas estruturadas.
+
+Motivo de exclusão: Esse tipo de usuário não aproveitaria as funcionalidades do EvoFit e dificilmente encontraria valor agregado no sistema, já que não possui interesse em organização, disciplina ou acompanhamento de evolução física.
+
+## Outras personas – Apoio e parceiros
+
+Além dos frequentadores e personal trainers (personas primárias) e dos gestores de academia (persona secundária), existem outras personas que também interagem com o sistema, mesmo que de forma indireta ou complementar:
+
+Recepcionistas: responsáveis pelo primeiro contato do aluno com a academia, realizam cadastros no sistema, atualizam dados pessoais e oferecem suporte básico aos usuários. Precisam de uma interface simples e rápida, que permita registrar informações sem comprometer o atendimento.
+
+Nutricionistas: atuam em conjunto com alunos e personal trainers, utilizando os relatórios de evolução física para propor planos alimentares adequados. Demandam acesso a dados de medidas corporais, frequência de treinos e indicadores de desempenho físico.
+
+Fisioterapeutas: acompanham alunos em processo de reabilitação ou prevenção de lesões, necessitando visualizar histórico de exercícios e evolução de cargas. O sistema pode auxiliar no monitoramento e no ajuste de treinos personalizados para evitar sobrecargas.
+
+Equipe administrativa: auxilia o gestor em tarefas burocráticas como relatórios financeiros, controle de matrículas e acompanhamento de presença. A necessidade principal é a extração de relatórios completos e integração com sistemas de gestão já existentes (ERP/CRM).
+
+Coordenadores de redes ou franquias de academias: têm uma visão mais estratégica, focada em padronizar o atendimento entre unidades, analisar métricas globais (retenção, adesão, cancelamentos) e acompanhar a performance do negócio em larga escala.
 
 ### Mapa de empatia
 
@@ -66,25 +100,25 @@ Falta de recursos financeiros para investir em planos avançados, dificuldade em
 - 👉 Ganhos:
 Deseja conquistar evolução física visível, reconhecimento social, mais disposição no dia a dia e confiança pessoal. Também valoriza soluções acessíveis, práticas e que tragam economia de tempo (como aplicativos que organizam treinos).
 
-- 🎯 Persona Secundária – Maria, 42 anos, gerente administrativa
-    Preza pela saúde, equilíbrio e praticidade.
-- 👉 Vê:
-Está cercada por um ambiente corporativo que exige muito tempo sentada. Vê anúncios de academias, pilates e aplicativos de bem-estar. Observa colegas de trabalho adotando hábitos saudáveis, o que a estimula.
+🎯 Persona Secundária – Marcos, 45 anos, Gestor de Academia
 
-- 👉 Escuta:
-É influenciada por familiares (que recomendam exercícios para cuidar da saúde), por médicos e profissionais de saúde, além de acompanhar grupos de mulheres nas redes sociais que falam sobre qualidade de vida.
+👉 Pensa e Sente
+Preocupa-se em manter a academia competitiva, organizada e lucrativa. Quer fidelizar clientes e melhorar a experiência do aluno. Sente pressão com custos, concorrência e cobrança por resultados financeiros.
 
-- 👉 Fala e Faz:
-Comenta sobre falta de tempo para exercícios, mas sempre fala sobre a importância da saúde. Participa ocasionalmente de caminhadas em grupo, baixa aplicativos de exercícios e tenta implementar pequenas pausas ativas no dia a dia.
+👉 Escuta
+Ouve reclamações e elogios de clientes, recebe feedbacks de instrutores e sugestões de sócios/acionistas. É influenciado por tendências de mercado fitness e por consultores de negócios.
 
-- 👉Pensa e Sente:
-Tem consciência de que precisa cuidar da saúde para evitar problemas futuros. Preocupa-se com estresse no trabalho, sedentarismo e envelhecimento saudável. Busca bem-estar físico e mental.
+👉 Vê
+Ambiente da academia, relatórios de gestão, concorrentes, propagandas de aplicativos de controle e fidelização de clientes. Vê instrutores e alunos utilizando diferentes ferramentas e espera soluções que unifiquem dados.
 
-- 👉 Dores:
-Falta de tempo por conta da rotina de trabalho, cansaço físico e mental. Desmotivação por já ter tentado academias antes sem manter a consistência. Preocupações com colesterol, pressão alta e dores na coluna.
+👉 Fala e Faz
+Conversa com instrutores e recepcionistas sobre desempenho da academia, analisa relatórios financeiros, participa de reuniões e avalia o nível de satisfação dos clientes. Não acessa sistemas todos os dias, mas verifica informações estratégicas de tempos em tempos.
 
-- 👉 Ganhos:
-Procura soluções simples e práticas para manter a saúde em dia, como programas online que se adaptem ao seu ritmo. Deseja mais energia para o trabalho, equilíbrio emocional e envelhecimento saudável.
+👉 Dores
+Dificuldade em integrar informações de diferentes áreas (financeiro, treino, matrícula). Preocupação com a rotatividade de alunos e com o custo de sistemas complexos. Falta de tempo para acompanhar tudo em detalhe.
+
+👉 Ganhos
+Deseja ter relatórios claros e acessíveis rapidamente, para tomar decisões mais ágeis. Quer aumentar retenção de alunos, reduzir custos operacionais e ter uma visão geral da academia sem precisar gastar horas analisando dados.
 
 ## Contexto de uso
 
@@ -134,6 +168,7 @@ A jornada termina, de forma cíclica e contínua, quando o usuário conclui um c
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 
