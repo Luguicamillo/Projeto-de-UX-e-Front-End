@@ -79,8 +79,7 @@ Coordenadores de redes ou franquias de academias: têm uma visão mais estratég
 
 ![Mapa de empatia](empatia.png)
 
-
-- 🎯 Persona Primária – João, 28 anos, universitário de Educação Física
+## 🎯 Persona Primária – João, 28 anos, universitário de Educação Física
      Interessado em saúde, bem-estar e performance.
 - 👉 Vê:
 Seu ambiente inclui a faculdade, academia, redes sociais e grupos de treino. Observa constantemente propagandas de suplementos, aplicativos fitness e planos de treino online.
@@ -100,24 +99,24 @@ Falta de recursos financeiros para investir em planos avançados, dificuldade em
 - 👉 Ganhos:
 Deseja conquistar evolução física visível, reconhecimento social, mais disposição no dia a dia e confiança pessoal. Também valoriza soluções acessíveis, práticas e que tragam economia de tempo (como aplicativos que organizam treinos).
 
-🎯 Persona Secundária – Marcos, 45 anos, Gestor de Academia
+## 🎯 Persona Secundária – Marcos, 45 anos, Gestor de Academia
 
-👉 Pensa e Sente
+-👉 Pensa e Sente
 Preocupa-se em manter a academia competitiva, organizada e lucrativa. Quer fidelizar clientes e melhorar a experiência do aluno. Sente pressão com custos, concorrência e cobrança por resultados financeiros.
 
-👉 Escuta
+-👉 Escuta
 Ouve reclamações e elogios de clientes, recebe feedbacks de instrutores e sugestões de sócios/acionistas. É influenciado por tendências de mercado fitness e por consultores de negócios.
 
-👉 Vê
+-👉 Vê
 Ambiente da academia, relatórios de gestão, concorrentes, propagandas de aplicativos de controle e fidelização de clientes. Vê instrutores e alunos utilizando diferentes ferramentas e espera soluções que unifiquem dados.
 
-👉 Fala e Faz
+-👉 Fala e Faz
 Conversa com instrutores e recepcionistas sobre desempenho da academia, analisa relatórios financeiros, participa de reuniões e avalia o nível de satisfação dos clientes. Não acessa sistemas todos os dias, mas verifica informações estratégicas de tempos em tempos.
 
-👉 Dores
+-👉 Dores
 Dificuldade em integrar informações de diferentes áreas (financeiro, treino, matrícula). Preocupação com a rotatividade de alunos e com o custo de sistemas complexos. Falta de tempo para acompanhar tudo em detalhe.
 
-👉 Ganhos
+-👉 Ganhos
 Deseja ter relatórios claros e acessíveis rapidamente, para tomar decisões mais ágeis. Quer aumentar retenção de alunos, reduzir custos operacionais e ter uma visão geral da academia sem precisar gastar horas analisando dados.
 
 ## Contexto de uso
@@ -168,6 +167,7 @@ A jornada termina, de forma cíclica e contínua, quando o usuário conclui um c
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 
