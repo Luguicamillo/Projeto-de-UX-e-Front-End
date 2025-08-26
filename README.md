@@ -53,7 +53,7 @@ Objetivos: Melhorar a gestão da academia, aumentar retenção de alunos, oferec
 
 Nome fictício: Bruno, 22 anos, Estudante universitário
 
-Contexto: Frequenta a academia de forma muito esporádica, sem regularidade ou compromisso com treinos. Usa a academia apenas de forma social ou eventual.
+Contexto: Frequenta a academia de forma muito esporádica, sem acompanhamento de um profissional, regularidade ou compromisso com treinos. Usa a academia apenas de forma social ou eventual.
 
 Necessidades: Não busca acompanhamento de evolução, nem registros detalhados de treinos, pois sua prioridade não é desempenho físico ou disciplina.
 
@@ -61,19 +61,6 @@ Comportamento: Pouco interessado em métricas de desempenho ou relatórios. Pref
 
 Motivo de exclusão: Esse tipo de usuário não aproveitaria as funcionalidades do EvoFit e dificilmente encontraria valor agregado no sistema, já que não possui interesse em organização, disciplina ou acompanhamento de evolução física.
 
-## Outras personas – Apoio e parceiros
-
-Além dos frequentadores e personal trainers (personas primárias) e dos gestores de academia (persona secundária), existem outras personas que também interagem com o sistema, mesmo que de forma indireta ou complementar:
-
-Recepcionistas: responsáveis pelo primeiro contato do aluno com a academia, realizam cadastros no sistema, atualizam dados pessoais e oferecem suporte básico aos usuários. Precisam de uma interface simples e rápida, que permita registrar informações sem comprometer o atendimento.
-
-Nutricionistas: atuam em conjunto com alunos e personal trainers, utilizando os relatórios de evolução física para propor planos alimentares adequados. Demandam acesso a dados de medidas corporais, frequência de treinos e indicadores de desempenho físico.
-
-Fisioterapeutas: acompanham alunos em processo de reabilitação ou prevenção de lesões, necessitando visualizar histórico de exercícios e evolução de cargas. O sistema pode auxiliar no monitoramento e no ajuste de treinos personalizados para evitar sobrecargas.
-
-Equipe administrativa: auxilia o gestor em tarefas burocráticas como relatórios financeiros, controle de matrículas e acompanhamento de presença. A necessidade principal é a extração de relatórios completos e integração com sistemas de gestão já existentes (ERP/CRM).
-
-Coordenadores de redes ou franquias de academias: têm uma visão mais estratégica, focada em padronizar o atendimento entre unidades, analisar métricas globais (retenção, adesão, cancelamentos) e acompanhar a performance do negócio em larga escala.
 
 ### Mapa de empatia
 
@@ -167,6 +154,7 @@ A jornada termina, de forma cíclica e contínua, quando o usuário conclui um c
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 
