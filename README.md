@@ -67,43 +67,64 @@ Motivo de exclusão: Esse tipo de usuário não aproveitaria as funcionalidades 
 ![Mapa de empatia](empatia.png)
 
 ## 🎯 Persona Primária – João, 28 anos, universitário de Educação Física
-     Interessado em saúde, bem-estar e performance.
-- 👉 Vê:
+
+- Vê:
 Seu ambiente inclui a faculdade, academia, redes sociais e grupos de treino. Observa constantemente propagandas de suplementos, aplicativos fitness e planos de treino online.
 
-- 👉 Escuta:
+- Escuta:
 Recebe influência de amigos da academia, professores, treinadores e também de influenciadores fitness no Instagram e YouTube.
 
-- 👉 Fala e Faz:
+- Fala e Faz:
 Costuma compartilhar treinos nas redes sociais, comenta sobre evolução física com colegas, participa de desafios fitness. Demonstra disciplina, mas por vezes reclama da falta de tempo e dinheiro para investir em suplementos e treinos personalizados.
   
-- 👉 Pensa e Sente:
+- Pensa e Sente:
 Está motivado a melhorar seu condicionamento físico e autoestima. Preocupa-se em manter uma rotina equilibrada entre estudos, treinos e vida social. Sonha em participar de competições esportivas e conquistar um corpo saudável.
 
-- 👉 Dores:
+- Dores:
 Falta de recursos financeiros para investir em planos avançados, dificuldade em manter consistência nos treinos por causa da rotina acadêmica. Ansiedade por resultados rápidos e frustração com platôs de desempenho.
 
-- 👉 Ganhos:
+- Ganhos:
 Deseja conquistar evolução física visível, reconhecimento social, mais disposição no dia a dia e confiança pessoal. Também valoriza soluções acessíveis, práticas e que tragam economia de tempo (como aplicativos que organizam treinos).
+
+## 🎯 Persona Primária – Carlos, 32 anos, Personal Trainer
+
+- Vê
+Ambiente de academia, aplicativos fitness, redes sociais e propagandas de suplementos e equipamentos. Observa diariamente o desempenho e comportamento de seus alunos.
+
+- Escuta
+Ouve feedbacks dos alunos sobre dificuldades e progressos, além de receber conselhos de outros profissionais de educação física. É influenciado por tendências de treino, metodologias modernas e colegas de profissão.
+
+- Fala e Faz
+Orienta os alunos em treinos, recomenda hábitos saudáveis, participa de eventos esportivos e compartilha conteúdos motivacionais em redes sociais. Cobra disciplina, mas também busca manter os alunos motivados.
+
+- Pensa e Sente
+Quer entregar treinos de qualidade e personalizados para seus alunos. Preocupa-se em manter sua reputação profissional e fidelizar clientes. Sente frustração quando não consegue acompanhar a evolução de cada aluno de forma prática. Deseja otimizar tempo e aumentar a satisfação dos alunos.
+
+- Dores
+Falta de ferramentas integradas para monitorar progresso de vários alunos ao mesmo tempo, dificuldade de manter o engajamento de quem desiste fácil, sobrecarga de trabalho ao criar treinos individualizados manualmente.
+
+- Ganhos
+Deseja praticidade para organizar treinos, registrar desempenho e acompanhar evolução. Busca reconhecimento profissional, retenção de alunos e mais tempo livre para captar novos clientes.
+
 
 ## 🎯 Persona Secundária – Marcos, 45 anos, Gestor de Academia
 
--👉 Pensa e Sente
+- Pensa e Sente
 Preocupa-se em manter a academia competitiva, organizada e lucrativa. Quer fidelizar clientes e melhorar a experiência do aluno. Sente pressão com custos, concorrência e cobrança por resultados financeiros.
 
--👉 Escuta
+- Escuta
 Ouve reclamações e elogios de clientes, recebe feedbacks de instrutores e sugestões de sócios/acionistas. É influenciado por tendências de mercado fitness e por consultores de negócios.
 
--👉 Vê
+- Vê
 Ambiente da academia, relatórios de gestão, concorrentes, propagandas de aplicativos de controle e fidelização de clientes. Vê instrutores e alunos utilizando diferentes ferramentas e espera soluções que unifiquem dados.
 
--👉 Fala e Faz
+- Fala e Faz
 Conversa com instrutores e recepcionistas sobre desempenho da academia, analisa relatórios financeiros, participa de reuniões e avalia o nível de satisfação dos clientes. Não acessa sistemas todos os dias, mas verifica informações estratégicas de tempos em tempos.
 
--👉 Dores
+- Dores
 Dificuldade em integrar informações de diferentes áreas (financeiro, treino, matrícula). Preocupação com a rotatividade de alunos e com o custo de sistemas complexos. Falta de tempo para acompanhar tudo em detalhe.
 
--👉 Ganhos
+- Ganhos
 Deseja ter relatórios claros e acessíveis rapidamente, para tomar decisões mais ágeis. Quer aumentar retenção de alunos, reduzir custos operacionais e ter uma visão geral da academia sem precisar gastar horas analisando dados.
 
 ## Contexto de uso
@@ -132,6 +153,8 @@ A jornada termina, de forma cíclica e contínua, quando o usuário conclui um c
 
 ## Coleta de dados
 
+- Link para formulário de coleta de dados: https://docs.google.com/forms/d/e/1FAIpQLSeQCDplY20e5kpl3Az_SwIu7uCa04bnFE59BKVHW_DPpIAX2w/viewform?usp=dialog
+
 ## Modelo de tarefas
 
 ## Design
@@ -154,6 +177,7 @@ A jornada termina, de forma cíclica e contínua, quando o usuário conclui um c
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 
