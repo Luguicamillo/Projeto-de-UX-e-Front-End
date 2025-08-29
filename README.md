@@ -153,8 +153,25 @@ A jornada termina, de forma cíclica e contínua, quando o usuário conclui um c
 
 ## Coleta de dados
 
-- Link para formulário de coleta de dados: https://docs.google.com/forms/d/e/1FAIpQLSey7zVvIZTDgCrE-tinJU1m5FGTARI0DfIm8nPG-cIcTUDxlw/viewform?usp=dialog
+FORMULARIO:
+- Aplicar formulários online (Google Forms ou Microsoft Forms) direcionados a alunos, personal trainers e gestores de academia. As perguntas devem ser curtas e objetivas, a fim de aumentar a taxa de resposta. Essa abordagem permite alcançar um grande número de usuários em pouco tempo, além de facilitar a análise estatística dos resultados, identificando padrões de comportamento e priorizando as funcionalidades mais desejadas antes do desenvolvimento.
+Link para o formulário de coleta de dados: https://docs.google.com/forms/d/e/1FAIpQLSey7zVvIZTDgCrE-tinJU1m5FGTARI0DfIm8nPG-cIcTUDxlw/viewform?usp=dialog
 
+ENTREVISTA:
+- Realizar entrevistas semi-estruturadas com frequentadores de academia, personal trainers e gestores. O objetivo é aprofundar pontos que dificilmente aparecerão em formulários, como motivações, frustrações e expectativas emocionais. Gerando assim, coleta informações qualitativas profundas, permite entender emoções, dores e expectativas que não aparecem em questionários e gera insights para funcionalidades diferenciadas (por exemplo, relatórios para mostrar evolução de alunos para gestores).
+    1. Como você organiza seus treinos hoje? (Para personal: como organiza os treinos de seus alunos? Para gestor: como acompanha a rotina da academia?)
+    2. Já usou algum aplicativo ou sistema para ajudar nisso? O que funcionou bem e o que atrapalhou?
+    3. Quais são as maiores dificuldades que você encontra na sua rotina de treino/gestão?
+    4. O que mais te motiva a manter a disciplina? Como gostaria de visualizar a evolução (gráficos, relatórios, comparativos, estatísticas)?
+    5. Durante o treino (ou no trabalho do personal/na gestão da academia), o que tornaria mais prático registrar ou consultar informações?
+    6. Se pudesse criar a função perfeita para esse aplicativo, qual seria?
+    7. O que faria você desistir de usar o EvoFit?
+    8. O que faria você recomendar esse aplicativo para colegas/alunos/gestores?
+
+Estudos de Campo (Observação):
+- Observar o comportamento dos usuários diretamente no ambiente de treino, acompanhando como os alunos registram suas atividades (em papel, celular ou de memória) e como os personal trainers gerenciam múltiplos alunos simultaneamente. O objetivo é identificar problemas práticos, como: dificuldade em utilizar o celular entre séries, falta de tempo para registrar todas as informações durante o treino e necessidade de gráficos rápidos e claros para feedback.
+Esse método permite verificar o que o usuário realmente faz — e não apenas o que relata —, revelando barreiras de usabilidade no contexto real de uso. Além disso, fornece dados essenciais para o desenvolvimento de uma interface mais intuitiva e ágil.
+    
 ## Modelo de tarefas
 
 ## Design
@@ -177,6 +194,7 @@ A jornada termina, de forma cíclica e contínua, quando o usuário conclui um c
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 
