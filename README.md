@@ -88,43 +88,43 @@ Deseja conquistar evolução física visível, reconhecimento social, mais dispo
 
 ## 🎯 Persona Primária – Carlos, 32 anos, Personal Trainer
 
-- Vê
+- Vê:
 Ambiente de academia, aplicativos fitness, redes sociais e propagandas de suplementos e equipamentos. Observa diariamente o desempenho e comportamento de seus alunos.
 
-- Escuta
+- Escuta:
 Ouve feedbacks dos alunos sobre dificuldades e progressos, além de receber conselhos de outros profissionais de educação física. É influenciado por tendências de treino, metodologias modernas e colegas de profissão.
 
-- Fala e Faz
+- Fala e Faz:
 Orienta os alunos em treinos, recomenda hábitos saudáveis, participa de eventos esportivos e compartilha conteúdos motivacionais em redes sociais. Cobra disciplina, mas também busca manter os alunos motivados.
 
-- Pensa e Sente
+- Pensa e Sente:
 Quer entregar treinos de qualidade e personalizados para seus alunos. Preocupa-se em manter sua reputação profissional e fidelizar clientes. Sente frustração quando não consegue acompanhar a evolução de cada aluno de forma prática. Deseja otimizar tempo e aumentar a satisfação dos alunos.
 
-- Dores
+- Dores:
 Falta de ferramentas integradas para monitorar progresso de vários alunos ao mesmo tempo, dificuldade de manter o engajamento de quem desiste fácil, sobrecarga de trabalho ao criar treinos individualizados manualmente.
 
-- Ganhos
+- Ganhos:
 Deseja praticidade para organizar treinos, registrar desempenho e acompanhar evolução. Busca reconhecimento profissional, retenção de alunos e mais tempo livre para captar novos clientes.
 
 
 ## 🎯 Persona Secundária – Marcos, 45 anos, Gestor de Academia
 
-- Pensa e Sente
+- Pensa e Sente:
 Preocupa-se em manter a academia competitiva, organizada e lucrativa. Quer fidelizar clientes e melhorar a experiência do aluno. Sente pressão com custos, concorrência e cobrança por resultados financeiros.
 
-- Escuta
+- Escuta:
 Ouve reclamações e elogios de clientes, recebe feedbacks de instrutores e sugestões de sócios/acionistas. É influenciado por tendências de mercado fitness e por consultores de negócios.
 
-- Vê
+- Vê:
 Ambiente da academia, relatórios de gestão, concorrentes, propagandas de aplicativos de controle e fidelização de clientes. Vê instrutores e alunos utilizando diferentes ferramentas e espera soluções que unifiquem dados.
 
-- Fala e Faz
+- Fala e Faz:
 Conversa com instrutores e recepcionistas sobre desempenho da academia, analisa relatórios financeiros, participa de reuniões e avalia o nível de satisfação dos clientes. Não acessa sistemas todos os dias, mas verifica informações estratégicas de tempos em tempos.
 
-- Dores
+- Dores:
 Dificuldade em integrar informações de diferentes áreas (financeiro, treino, matrícula). Preocupação com a rotatividade de alunos e com o custo de sistemas complexos. Falta de tempo para acompanhar tudo em detalhe.
 
-- Ganhos
+- Ganhos:
 Deseja ter relatórios claros e acessíveis rapidamente, para tomar decisões mais ágeis. Quer aumentar retenção de alunos, reduzir custos operacionais e ter uma visão geral da academia sem precisar gastar horas analisando dados.
 
 ## Contexto de uso
@@ -177,6 +177,7 @@ A jornada termina, de forma cíclica e contínua, quando o usuário conclui um c
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 
