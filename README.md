@@ -154,11 +154,11 @@ A jornada termina, de forma cíclica e contínua, quando o usuário conclui um c
 ## Coleta de dados
 
 FORMULARIO:
-- Aplicar formulários online (Google Forms ou Microsoft Forms) direcionados a alunos, personal trainers e gestores de academia. As perguntas devem ser curtas e objetivas, a fim de aumentar a taxa de resposta. Essa abordagem permite alcançar um grande número de usuários em pouco tempo, além de facilitar a análise estatística dos resultados, identificando padrões de comportamento e priorizando as funcionalidades mais desejadas antes do desenvolvimento.
+- Aplicar formulários online (Google Forms ou Microsoft Forms) direcionados a alunos e personal trainers. As perguntas devem ser curtas e objetivas, a fim de aumentar a taxa de resposta. Essa abordagem permite alcançar um grande número de usuários em pouco tempo, além de facilitar a análise estatística dos resultados, identificando padrões de comportamento e priorizando as funcionalidades mais desejadas antes do desenvolvimento.
 Link para o formulário de coleta de dados: https://docs.google.com/forms/d/e/1FAIpQLSey7zVvIZTDgCrE-tinJU1m5FGTARI0DfIm8nPG-cIcTUDxlw/viewform?usp=dialog
 
 ENTREVISTA:
-- Realizar entrevistas semi-estruturadas com frequentadores de academia, personal trainers e gestores. O objetivo é aprofundar pontos que dificilmente aparecerão em formulários, como motivações, frustrações e expectativas emocionais. Gerando assim, coleta informações qualitativas profundas, permite entender emoções, dores e expectativas que não aparecem em questionários e gera insights para funcionalidades diferenciadas (por exemplo, relatórios para mostrar evolução de alunos para gestores).
+- Realizar entrevistas semi-estruturadas com frequentadores de academia e personal trainers. O objetivo é aprofundar pontos que dificilmente aparecerão em formulários, como motivações, frustrações e expectativas emocionais. Gerando assim, coleta informações qualitativas profundas, permite entender emoções, dores e expectativas que não aparecem em questionários e gera insights para funcionalidades diferenciadas (por exemplo, relatórios para mostrar evolução de alunos para gestores).
     1. Como você organiza seus treinos hoje? (Para personal: como organiza os treinos de seus alunos? Para gestor: como acompanha a rotina da academia?)
     2. Já usou algum aplicativo ou sistema para ajudar nisso? O que funcionou bem e o que atrapalhou?
     3. Quais são as maiores dificuldades que você encontra na sua rotina de treino/gestão?
@@ -194,6 +194,7 @@ Esse método permite verificar o que o usuário realmente faz — e não apenas 
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 
