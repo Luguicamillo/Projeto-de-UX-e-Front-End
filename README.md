@@ -174,57 +174,219 @@ Esse método permite verificar o que o usuário realmente faz — e não apenas 
     
 ## Modelo de tarefas
 
-Exemplo Detalhado de Modelo GOMS (Mobile)
+### Método GOMS baseado na experiência do aluno.
 
 ### GOAL 0: Registrar uma série de exercício no EvoFit (app mobile)
 
 #### GOAL 1: Inserir repetições
 
-METHOD 1.A: Usar teclado virtual numérico
+- METHOD 1.A: Usar teclado virtual numérico
 (SEL. RULE: campo não está pré-preenchido ou usuário prefere digitar)
 
-OP. 1.A.1: Tocar campo “Reps”
+- OP. 1.A.1: Tocar campo “Reps”
 
-OP. 1.A.2: Digitar número de repetições
+- OP. 1.A.2: Digitar número de repetições
 
-OP. 1.A.3: Confirmar entrada
+- OP. 1.A.3: Confirmar entrada
 
-METHOD 1.B: Usar botões de incremento (+/–)
+- METHOD 1.B: Usar botões de incremento (+/–)
 (SEL. RULE: usuário prefere evitar digitação e valores estão próximos ao anterior)
 
-OP. 1.B.1: Tocar botão “+” ou “–” até atingir reps desejadas
+- OP. 1.B.1: Tocar botão “+” ou “–” até atingir reps desejadas
 
 #### GOAL 2: Inserir carga
 
-METHOD 2.A: Usar teclado virtual numérico
+- METHOD 2.A: Usar teclado virtual numérico
 (SEL. RULE: campo vazio ou valor distante do anterior)
 
-OP. 2.A.1: Tocar campo “Carga”
+- OP. 2.A.1: Tocar campo “Carga”
 
-OP. 2.A.2: Digitar número da carga (kg)
+- OP. 2.A.2: Digitar número da carga (kg)
 
-OP. 2.A.3: Confirmar entrada
+- OP. 2.A.3: Confirmar entrada
 
-METHOD 2.B: Usar botões de incremento (+/–)
+- METHOD 2.B: Usar botões de incremento (+/–)
 (SEL. RULE: usuário prefere ajustar rapidamente a partir da última carga usada)
 
-OP. 2.B.1: Tocar botão “+” ou “–” até valor desejado
+- OP. 2.B.1: Tocar botão “+” ou “–” até valor desejado
 
 #### GOAL 3: Concluir a série
 
-METHOD 3.A: Botão “Concluir Série”
+- METHOD 3.A: Botão “Concluir Série”
 
-OP. 3.A.1: Tocar botão “Concluir Série”
+- OP. 3.A.1: Tocar botão “Concluir Série”
 
-OP. 3.A.2: Observar mensagem de feedback (“Série registrada!”)
+- OP. 3.A.2: Observar mensagem de feedback (“Série registrada!”)
 
 #### Regras de Seleção (Selection Rules)
 
-Se o usuário já usou o mesmo exercício antes → preferir METHOD B (incrementos).
+- Se o usuário já usou o mesmo exercício antes → preferir METHOD B (incrementos).
 
-Se é a primeira vez ou mudança grande de valor → preferir METHOD A (digitação).
+- Se é a primeira vez ou mudança grande de valor → preferir METHOD A (digitação).
 
-Sempre concluir com METHOD 3.A.
+- Sempre concluir com METHOD 3.A.
+
+
+####GOAL 1: Acessar a seção de estatísticas
+
+- METHOD 1.A: Usar menu inferior de navegação
+(SEL. RULE: usuário sabe onde está o ícone “Estatísticas” na barra inferior)
+
+- OP. 1.A.1: Tocar o ícone “Estatísticas” na barra inferior
+
+- OP. 1.A.2: Aguardar abertura da tela de estatísticas
+
+- METHOD 1.B: Usar card/atalho na Home
+(SEL. RULE: usuário está na Home e deseja ir rápido via atalho)
+
+- OP. 1.B.1: Identificar atalho ou resumo “Estatísticas rápidas”
+
+- OP. 1.B.2: Tocar no atalho
+
+- OP. 1.B.3: Aguardar abertura da tela completa de estatísticas
+
+#### GOAL 2: Selecionar tipo de estatística
+
+- METHOD 2.A: Usar tabs superiores
+(SEL. RULE: estatísticas estão organizadas em abas, ex.: “Semana | Mês | Evolução”)
+
+- OP. 2.A.1: Tocar na aba desejada
+
+- OP. 2.A.2: Observar mudança de conteúdo
+
+- METHOD 2.B: Usar filtros/dropdown
+(SEL. RULE: usuário quer personalizar período ou métrica específica)
+
+- OP. 2.B.1: Tocar no campo de filtro (ex.: “Últimos 30 dias”)
+
+- OP. 2.B.2: Selecionar opção na lista
+
+- OP. 2.B.3: Confirmar filtro aplicado
+
+#### GOAL 3: Interpretar gráfico ou dado
+
+- METHOD 3.A: Visualizar gráfico de barras
+
+- OP. 3.A.1: Examinar valores dos grupos musculares ou treinos por semana
+
+- METHOD 3.B: Visualizar gráfico de linha
+
+- OP. 3.B.1: Examinar progressão ao longo do tempo (ex.: supino, peso corporal)
+
+- METHOD 3.C: Consultar resumo numérico
+
+- OP. 3.C.1: Ler indicadores principais (ex.: treinos concluídos, tempo médio, aderência %)
+
+#### Regras de Seleção (Selection Rules)
+
+Se o usuário está na Home e vê o atalho → usar METHOD 1.B.
+
+Se prefere acessar sempre via menu → usar METHOD 1.A.
+
+Se quer visão geral → usar METHOD 2.A (abas).
+
+Se busca período específico ou detalhe → usar METHOD 2.B (filtros).
+
+O tipo de visualização depende do dado: comparações → gráfico de barras; evolução → gráfico de linha; status imediato → resumo numérico.
+
+### Método GOMS baseado na experiência do professor.
+
+### GOAL 0: Atribuir um treino a um aluno
+
+#### GOAL 1: Acessar lista de alunos
+
+- METHOD 1.A: Menu “Alunos” na barra inferior
+(SEL. RULE: personal está na Home ou em outra tela, e prefere navegação pelo menu)
+
+- OP. 1.A.1: Tocar ícone “Alunos”
+
+- OP. 1.A.2: Aguardar abertura da lista
+
+- METHOD 1.B: Atalho na Home (alunos recentes)
+(SEL. RULE: aluno está entre os últimos treinados)
+
+- OP. 1.B.1: Identificar card do aluno na Home
+
+- OP. 1.B.2: Tocar no card
+
+#### GOAL 2: Selecionar aluno
+
+- METHOD 2.A: Pesquisa por nome
+
+- OP. 2.A.1: Tocar campo de busca
+
+- OP. 2.A.2: Digitar nome
+
+- OP. 2.A.3: Selecionar aluno da lista
+
+- METHOD 2.B: Scroll na lista
+
+- OP. 2.B.1: Rolar lista até o aluno
+
+- OP. 2.B.2: Tocar no card
+
+#### GOAL 3: Atribuir treino
+
+- METHOD 3.A: Usar botão “Atribuir Treino”
+
+- OP. 3.A.1: Tocar botão “+ Atribuir treino”
+
+- OP. 3.A.2: Escolher treino da biblioteca
+
+- OP. 3.A.3: Confirmar atribuição
+
+####Regras de Seleção
+
+- Se o aluno aparece logo na Home → usar METHOD 1.B.
+
+- Se a lista é longa → usar METHOD 2.A (busca).
+
+- Sempre concluir com METHOD 3.A.
+
+### Método GOMS baseado na experiência do gestor.
+
+### GOAL 0: Consultar relatório de ocupação da academia
+
+#### GOAL 1: Acessar painel de gestão
+
+- METHOD 1.A: Menu “Gestor”
+(SEL. RULE: gerente logado com permissão de administrador)
+
+- OP. 1.A.1: Tocar ícone/menu “Gestor”
+
+- OP. 1.A.2: Aguardar painel abrir
+
+#### GOAL 2: Selecionar relatórios
+
+- METHOD 2.A: Atalho “Relatórios” no painel
+(SEL. RULE: relatórios aparecem na primeira seção do painel)
+
+- OP. 2.A.1: Tocar card “Relatórios”
+
+- METHOD 2.B: Scroll até seção “Relatórios”
+(SEL. RULE: seção não está visível de imediato)
+
+- OP. 2.B.1: Rolar tela
+
+- OP. 2.B.2: Tocar card “Relatórios”
+
+#### GOAL 3: Consultar relatório de ocupação
+
+- METHOD 3.A: Abrir relatório de ocupação semanal
+
+- OP. 3.A.1: Tocar opção “Ocupação”
+
+- OP. 3.A.2: Visualizar heatmap (picos por horário)
+
+- OP. 3.A.3: Interpretar dados
+
+#### Regras de Seleção
+
+- Se relatórios já visíveis → usar METHOD 2.A.
+
+- Se precisar navegar mais → usar METHOD 2.B.
+
+-Sempre finalizar com METHOD 3.A.
 
 ## Design
 
@@ -250,6 +412,7 @@ Sempre concluir com METHOD 3.A.
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 
