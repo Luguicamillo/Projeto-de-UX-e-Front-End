@@ -176,7 +176,7 @@ Esse método permite verificar o que o usuário realmente faz — e não apenas 
 
 Exemplo Detalhado de Modelo GOMS (Mobile)
 
-- GOAL 0: Registrar uma série de exercício no EvoFit (app mobile)
+# GOAL 0: Registrar uma série de exercício no EvoFit (app mobile)
 
 - GOAL 1: Inserir repetições
 
@@ -250,6 +250,7 @@ Sempre concluir com METHOD 3.A.
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 
