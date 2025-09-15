@@ -176,9 +176,9 @@ Esse método permite verificar o que o usuário realmente faz — e não apenas 
 
 Exemplo Detalhado de Modelo GOMS (Mobile)
 
-# GOAL 0: Registrar uma série de exercício no EvoFit (app mobile)
+### GOAL 0: Registrar uma série de exercício no EvoFit (app mobile)
 
-- GOAL 1: Inserir repetições
+#### GOAL 1: Inserir repetições
 
 METHOD 1.A: Usar teclado virtual numérico
 (SEL. RULE: campo não está pré-preenchido ou usuário prefere digitar)
@@ -194,7 +194,7 @@ METHOD 1.B: Usar botões de incremento (+/–)
 
 OP. 1.B.1: Tocar botão “+” ou “–” até atingir reps desejadas
 
-- GOAL 2: Inserir carga
+#### GOAL 2: Inserir carga
 
 METHOD 2.A: Usar teclado virtual numérico
 (SEL. RULE: campo vazio ou valor distante do anterior)
@@ -210,7 +210,7 @@ METHOD 2.B: Usar botões de incremento (+/–)
 
 OP. 2.B.1: Tocar botão “+” ou “–” até valor desejado
 
-- GOAL 3: Concluir a série
+#### GOAL 3: Concluir a série
 
 METHOD 3.A: Botão “Concluir Série”
 
@@ -218,7 +218,7 @@ OP. 3.A.1: Tocar botão “Concluir Série”
 
 OP. 3.A.2: Observar mensagem de feedback (“Série registrada!”)
 
-- Regras de Seleção (Selection Rules)
+#### Regras de Seleção (Selection Rules)
 
 Se o usuário já usou o mesmo exercício antes → preferir METHOD B (incrementos).
 
@@ -250,6 +250,7 @@ Sempre concluir com METHOD 3.A.
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 
