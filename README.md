@@ -335,7 +335,7 @@ Esse método permite verificar o que o usuário realmente faz — e não apenas 
 
 - OP. 3.A.3: Confirmar atribuição
 
-####Regras de Seleção
+#### Regras de Seleção
 
 - Se o aluno aparece logo na Home → usar METHOD 1.B.
 
@@ -414,6 +414,7 @@ Esse método permite verificar o que o usuário realmente faz — e não apenas 
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 
