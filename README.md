@@ -227,7 +227,7 @@ Esse método permite verificar o que o usuário realmente faz — e não apenas 
 - Sempre concluir com METHOD 3.A.
 
 
-####GOAL 1: Acessar a seção de estatísticas
+#### GOAL 1: Acessar a seção de estatísticas
 
 - METHOD 1.A: Usar menu inferior de navegação
 (SEL. RULE: usuário sabe onde está o ícone “Estatísticas” na barra inferior)
@@ -279,15 +279,15 @@ Esse método permite verificar o que o usuário realmente faz — e não apenas 
 
 #### Regras de Seleção (Selection Rules)
 
-Se o usuário está na Home e vê o atalho → usar METHOD 1.B.
+- Se o usuário está na Home e vê o atalho → usar METHOD 1.B.
 
-Se prefere acessar sempre via menu → usar METHOD 1.A.
+- Se prefere acessar sempre via menu → usar METHOD 1.A.
 
-Se quer visão geral → usar METHOD 2.A (abas).
+- Se quer visão geral → usar METHOD 2.A (abas).
 
-Se busca período específico ou detalhe → usar METHOD 2.B (filtros).
+- Se busca período específico ou detalhe → usar METHOD 2.B (filtros).
 
-O tipo de visualização depende do dado: comparações → gráfico de barras; evolução → gráfico de linha; status imediato → resumo numérico.
+- O tipo de visualização depende do dado: comparações → gráfico de barras; evolução → gráfico de linha; status imediato → resumo numérico.
 
 ### Método GOMS baseado na experiência do professor.
 
@@ -343,7 +343,9 @@ O tipo de visualização depende do dado: comparações → gráfico de barras; 
 
 - Sempre concluir com METHOD 3.A.
 
+
 ### Método GOMS baseado na experiência do gestor.
+
 
 ### GOAL 0: Consultar relatório de ocupação da academia
 
@@ -386,7 +388,7 @@ O tipo de visualização depende do dado: comparações → gráfico de barras; 
 
 - Se precisar navegar mais → usar METHOD 2.B.
 
--Sempre finalizar com METHOD 3.A.
+- Sempre finalizar com METHOD 3.A.
 
 ## Design
 
@@ -412,6 +414,7 @@ O tipo de visualização depende do dado: comparações → gráfico de barras; 
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 
