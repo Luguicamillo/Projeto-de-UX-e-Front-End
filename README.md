@@ -229,8 +229,8 @@ Esse método permite verificar o que o usuário realmente faz — e não apenas 
 
 #### GOAL 1: Acessar a seção de estatísticas
 
-- METHOD 1.A: Usar menu inferior de navegação
-(SEL. RULE: usuário sabe onde está o ícone “Estatísticas” na barra inferior)
+- METHOD 1.A: Usar menu lateral de navegação
+(SEL. RULE: usuário sabe onde está o ícone “Estatísticas” na barra lateral)
 
 - OP. 1.A.1: Tocar o ícone “Estatísticas” na barra inferior
 
@@ -414,6 +414,7 @@ Esse método permite verificar o que o usuário realmente faz — e não apenas 
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 
