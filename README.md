@@ -1,4 +1,4 @@
-# **Aplicativo de Gestão de Treinos para Academias:** EvoFit
+ # **Aplicativo de Gestão de Treinos para Academias:** EvoFit
 
 Trabalho de Experiencia do Usuário (UX) apresentado ao Centro Universitário [FEI](https://portal.fei.edu.br/), como parte dos requisitos necessários para aprovação na disciplina de Experiência do Usuário e Front-End (CCP310) do curso de Ciencia da Computação, orientado pelo Prof. Dr. [Fagner de Assis Moura Pimentel](https://github.com/fagnerpimentel).
 
@@ -226,13 +226,14 @@ Esse método permite verificar o que o usuário realmente faz — e não apenas 
 
 - Sempre concluir com METHOD 3.A.
 
+### GOAL 0: Consultar Estatísticas no EvoFit (app mobile)
 
 #### GOAL 1: Acessar a seção de estatísticas
 
 - METHOD 1.A: Usar menu lateral de navegação
 (SEL. RULE: usuário sabe onde está o ícone “Estatísticas” na barra lateral)
 
-- OP. 1.A.1: Tocar o ícone “Estatísticas” na barra inferior
+- OP. 1.A.1: Tocar o ícone “Estatísticas” na barra lateral
 
 - OP. 1.A.2: Aguardar abertura da tela de estatísticas
 
@@ -414,6 +415,7 @@ Esse método permite verificar o que o usuário realmente faz — e não apenas 
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 
