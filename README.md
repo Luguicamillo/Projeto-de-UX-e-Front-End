@@ -403,6 +403,9 @@ Esse método permite verificar o que o usuário realmente faz — e não apenas 
 #### Avaliação heurística
 
 [Esboço paginas.pdf](https://github.com/user-attachments/files/22220287/Esboco.paginas.pdf)
+![unnamed](https://github.com/user-attachments/assets/fafdc675-9e96-4952-b681-aac6c3166df8)
+
+
 
 ### Prtotipação em médio nível (Figma)
 #### Avaliação heurística
@@ -415,6 +418,7 @@ Esse método permite verificar o que o usuário realmente faz — e não apenas 
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 
