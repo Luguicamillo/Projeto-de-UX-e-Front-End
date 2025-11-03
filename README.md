@@ -403,12 +403,15 @@ Esse método permite verificar o que o usuário realmente faz — e não apenas 
 #### Avaliação heurística
 
 [Esboço paginas.pdf](https://github.com/user-attachments/files/22220287/Esboco.paginas.pdf)
-![unnamed](https://github.com/user-attachments/assets/fafdc675-9e96-4952-b681-aac6c3166df8)
-
+[Molic.pdf](https://github.com/user-attachments/files/23314017/Molic.pdf)
 
 
 ### Prtotipação em médio nível (Figma)
 #### Avaliação heurística
+
+https://www.figma.com/design/NxUx3WlgHwcgMjF2GutH6n/Projeto-Front-end?node-id=0-1&t=EKZt0LuDB2i1dmbu-1
+[Modelo 02 Avaliacao Heuristica.doc](https://github.com/user-attachments/files/23314215/Modelo.02.Avaliacao.Heuristica.doc)
+
 
 ### Prtotipação em alto nível (React)
 #### Avaliação heurística
@@ -418,6 +421,7 @@ Esse método permite verificar o que o usuário realmente faz — e não apenas 
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 
