@@ -410,7 +410,7 @@ E
 ### Prtotipação em médio nível (Figma)
 #### Avaliação heurística
 
-https://www.figma.com/design/NxUx3WlgHwcgMjF2GutH6n/Projeto-Front-end?node-id=0-1&t=EKZt0LuDB2i1dmbu-1
+https://www.figma.com/proto/NxUx3WlgHwcgMjF2GutH6n/Projeto-Front-end?node-id=9-4&starting-point-node-id=9%3A4&t=0ZlLWfpbxIkGrjp8-1
 E
 [Modelo 02 Avaliacao Heuristica.doc](https://github.com/user-attachments/files/23314215/Modelo.02.Avaliacao.Heuristica.doc)
 
@@ -423,6 +423,7 @@ E
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 
